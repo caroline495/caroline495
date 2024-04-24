@@ -34,8 +34,6 @@ Connect with with me here!
    <a href="mailto:caroline.zhang16@gmail.com/">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
    </a>
-  [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caroline.zhang16@gmail.com)
-
 </div>
 
 
@@ -52,4 +50,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caroline.zhang16@gmail.com)
+
 -->
