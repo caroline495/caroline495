@@ -18,7 +18,7 @@ Some technologies I have experience with:
 </div>
 <br>
 
-⚡ Fun fact: I am a passionate coffee drinker ☕️ and avid coffee shop/cafe explorer...if you are similarly coffee/cafe motivated, here are some of my favorite coffee shops around the Bay:
+⚡ Fun fact: I am a passionate coffee drinker ☕️ and coffee shop/café explorer...if you are similarly coffee motivated, here are some of my favorite coffee shops in the Bay:
 - Saint Frank (San Francisco)
 - The Coffee Movement (San Francisco)
 - Chromatic Coffee (San Jose)
