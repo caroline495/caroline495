@@ -23,6 +23,7 @@ Some technologies I have experience with:
 - The Coffee Movement (San Francisco)
 - Chromatic Coffee (San Jose)
 - The Crown Lab (Oakland)
+- Motivat Coffee Roasters (Oakland)
 - Philz (classic all around the Bay!)
 
 Connect with with me here!
